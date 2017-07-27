@@ -1,7 +1,7 @@
 # Your News. Snapped.
 
 
-<img src="/images/IMG_7786 copy.pdf" width="170">
+<p align="center"> <img src="/images/IMG_7786 copy.pdf" width="500"> </p>
 
 NAME:
 Your News. Snapped.
